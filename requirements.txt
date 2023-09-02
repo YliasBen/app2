@@ -1,0 +1,16 @@
+streamlit
+pandas==1.5.3
+openpyxl
+pdfkit 
+xlrd
+xlsx2html
+yagmail
+datetime
+tempfile
+os
+locale
+io 
+xlsx2html
+numpy
+openpyxl.styles
+
