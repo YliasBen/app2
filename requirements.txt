@@ -6,11 +6,6 @@ xlrd
 xlsx2html
 yagmail
 datetime
-tempfile
-os
-locale
-io 
 xlsx2html
-numpy
-openpyxl.styles
+
 
